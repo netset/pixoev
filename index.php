@@ -1,3 +1,3 @@
 <?php
-echo "pixo";
+echo "pixo event";
 ?>
