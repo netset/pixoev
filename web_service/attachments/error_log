@@ -1,0 +1,426 @@
+[23-Apr-2014 02:19:47 America/Denver] PHP Warning:  require_once(../class/config.php): failed to open stream: No such file or directory in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service/web_service.php on line 5
+[23-Apr-2014 02:19:47 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../class/config.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service/web_service.php on line 5
+[28-Apr-2014 07:42:00 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 113
+[28-Apr-2014 07:42:07 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 113
+[28-Apr-2014 07:43:30 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 114
+[28-Apr-2014 07:44:10 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 114
+[28-Apr-2014 07:47:29 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 114
+[28-Apr-2014 23:23:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:40:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:41:08 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:41:16 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:42:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:54:18 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:55:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 239
+[28-Apr-2014 23:56:30 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 289
+[28-Apr-2014 23:58:05 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 289
+[28-Apr-2014 23:58:50 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 289
+[29-Apr-2014 00:01:38 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 289
+[02-May-2014 01:44:37 America/Denver] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 296
+[02-May-2014 16:20:57 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 1942
+[02-May-2014 16:23:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 1942
+[02-May-2014 16:23:34 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 1942
+[02-May-2014 16:24:06 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 1941
+[20-May-2014 01:20:44 America/Denver] PHP Parse error:  syntax error, unexpected 'dump' (T_STRING) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 122
+[20-May-2014 03:43:42 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:51:14 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:51:21 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:52:14 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:52:58 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:53:14 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:53:27 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:53:38 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:53:53 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:54:01 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:54:07 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 03:59:08 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 04:08:40 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 04:17:30 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 04:18:01 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 263
+[20-May-2014 06:23:11 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 154
+[20-May-2014 06:26:07 America/Denver] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 394
+[20-May-2014 06:26:10 America/Denver] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 394
+[23-May-2014 06:58:35 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 575
+[23-May-2014 07:55:03 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 99
+[23-May-2014 07:56:07 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 100
+[23-May-2014 07:56:12 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 100
+[23-May-2014 07:56:16 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 100
+[23-May-2014 07:57:10 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/worktest/public_html/GUN/Pixovent/web_service/add_item.php on line 100
+[10-Jun-2014 04:28:05 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home3/worktest/public_html/GUN/Pixovent/web_service/web_service.php on line 44
+[12-Jun-2014 05:30:33 America/Denver] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home3/worktest/public_html/GUN/Pixovent/class/config.php on line 11
+[27-Jun-2014 14:02:05 UTC] PHP Warning:  mysql_connect(): Access denied for user 'worktest_pix'@'localhost' (using password: YES) in /home/netsetin/public_html/GUN/Pixovent/class/config.php on line 11
+[09-Jul-2014 11:49:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/netsetin/public_html/GUN/Pixovent/class/config.php:1) in /home/netsetin/public_html/GUN/Pixovent/class/config.php on line 2
+[09-Jul-2014 13:05:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 243
+[10-Jul-2014 06:11:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 263
+[10-Jul-2014 07:52:07 UTC] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 273
+[10-Jul-2014 08:08:10 UTC] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 273
+[10-Jul-2014 08:08:14 UTC] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 273
+[10-Jul-2014 09:43:19 UTC] PHP Parse error:  syntax error, unexpected ''event_icon'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 244
+[10-Jul-2014 10:00:25 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 294
+[10-Jul-2014 10:04:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 2364
+[10-Jul-2014 10:06:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 2365
+[10-Jul-2014 10:08:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 2364
+[10-Jul-2014 10:09:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 2364
+[10-Jul-2014 10:30:39 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 292
+[10-Jul-2014 10:31:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 295
+[10-Jul-2014 10:31:26 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 297
+[10-Jul-2014 10:33:51 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 297
+[10-Jul-2014 10:33:57 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 297
+[10-Jul-2014 10:37:12 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 297
+[10-Jul-2014 10:43:26 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 294
+[10-Jul-2014 10:43:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 294
+[10-Jul-2014 10:43:58 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 302
+[10-Jul-2014 10:52:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 302
+[10-Jul-2014 10:53:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 288
+[10-Jul-2014 10:57:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 293
+[10-Jul-2014 10:58:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 293
+[10-Jul-2014 10:58:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 293
+[10-Jul-2014 10:58:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 293
+[10-Jul-2014 11:03:25 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 293
+[10-Jul-2014 16:49:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 879
+[10-Jul-2014 17:57:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 288
+[11-Jul-2014 13:54:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 885
+[11-Jul-2014 13:57:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 885
+[11-Jul-2014 13:57:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 885
+[11-Jul-2014 14:01:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 886
+[11-Jul-2014 14:06:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 886
+[11-Jul-2014 14:55:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 886
+[11-Jul-2014 14:55:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 886
+[11-Jul-2014 15:04:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 890
+[11-Jul-2014 15:04:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 890
+[11-Jul-2014 15:21:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 890
+[11-Jul-2014 15:45:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 597
+[11-Jul-2014 15:54:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 597
+[11-Jul-2014 15:54:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 597
+[11-Jul-2014 16:01:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 598
+[11-Jul-2014 16:01:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 598
+[11-Jul-2014 16:01:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 598
+[11-Jul-2014 16:02:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 599
+[11-Jul-2014 16:03:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 599
+[11-Jul-2014 16:35:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 363
+[11-Jul-2014 16:43:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 363
+[11-Jul-2014 16:43:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 363
+[24-Jul-2014 19:03:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 533
+[24-Jul-2014 21:55:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 536
+[24-Jul-2014 21:58:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 522
+[25-Jul-2014 01:50:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 525
+[25-Jul-2014 03:42:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$evList' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 565
+[25-Jul-2014 04:06:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 573
+[25-Jul-2014 15:24:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '/' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 401
+[25-Jul-2014 15:25:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 443
+[25-Jul-2014 15:25:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 443
+[25-Jul-2014 15:29:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 443
+[25-Jul-2014 15:55:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 659
+[25-Jul-2014 16:31:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 110
+[25-Jul-2014 16:31:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 120
+[25-Jul-2014 16:32:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 125
+[25-Jul-2014 18:36:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 117
+[26-Jul-2014 08:14:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 51
+[26-Jul-2014 08:15:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 51
+[26-Jul-2014 08:35:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 499
+[26-Jul-2014 12:40:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 40
+[26-Jul-2014 13:02:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '"name"' (T_CONSTANT_ENCAPSED_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 317
+[26-Jul-2014 16:24:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 171
+[26-Jul-2014 16:43:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '/' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 170
+[26-Jul-2014 18:44:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 186
+[28-Jul-2014 12:08:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:17:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:17:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:18:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$j' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 138
+[28-Jul-2014 12:27:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'timer' (T_STRING), expecting ',' or ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 166
+[28-Jul-2014 12:50:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 143
+[28-Jul-2014 18:07:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 18:08:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 215
+[28-Jul-2014 22:21:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[28-Jul-2014 22:24:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[28-Jul-2014 22:24:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[28-Jul-2014 22:24:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[28-Jul-2014 23:56:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[29-Jul-2014 00:09:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'pr' (T_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[29-Jul-2014 00:09:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 82
+[29-Jul-2014 14:53:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 237
+[30-Jul-2014 14:53:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 241
+[30-Jul-2014 14:53:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 241
+[30-Jul-2014 15:11:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 241
+[30-Jul-2014 15:31:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 241
+[30-Jul-2014 15:35:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 241
+[04-Aug-2014 20:29:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 172
+[04-Aug-2014 20:55:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 925
+[04-Aug-2014 21:08:25 Asia/Calcutta] PHP Fatal error:  Cannot redeclare login() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php:92) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1039
+[04-Aug-2014 21:10:25 Asia/Calcutta] PHP Fatal error:  Cannot redeclare login() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php:92) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1039
+[08-Aug-2014 08:50:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 08:50:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 08:50:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 09:20:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 09:20:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 09:20:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 09:23:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 10:09:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 10:47:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 12:17:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 12:18:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 13:01:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:34:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:36:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:36:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:38:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:38:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 14:38:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 15:32:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 15:32:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 17:26:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 17:29:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 17:30:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 17:31:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[08-Aug-2014 20:09:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 162
+[08-Aug-2014 20:16:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'not' (T_STRING), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 219
+[11-Aug-2014 09:44:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:00:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:00:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:00:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:00:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:04:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:04:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:04:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:04:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:10:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:10:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:13:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:13:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:13:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:13:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:15:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:19:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:20:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:20:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:20:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:20:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:32:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:35:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:45:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:46:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:50:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:54:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[11-Aug-2014 10:57:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 397
+[12-Aug-2014 12:11:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 284
+[12-Aug-2014 18:53:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 344
+[13-Aug-2014 17:52:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 910
+[14-Aug-2014 12:10:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$eIC' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 412
+[14-Aug-2014 12:10:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$eIC' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 412
+[14-Aug-2014 12:10:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$eIC' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 412
+[18-Aug-2014 15:41:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''datetime'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 486
+[18-Aug-2014 18:30:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1037
+[18-Aug-2014 18:36:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 242
+[25-Aug-2014 15:35:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'f' (T_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1174
+[26-Aug-2014 00:28:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 699
+[26-Aug-2014 09:40:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 733
+[26-Aug-2014 09:42:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ',' or ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 733
+[26-Aug-2014 13:52:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 545
+[27-Aug-2014 09:33:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 755
+[27-Aug-2014 09:58:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 749
+[27-Aug-2014 09:59:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 749
+[27-Aug-2014 12:35:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 485
+[27-Aug-2014 13:22:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:26:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:26:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:29:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:29:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:30:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:32:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 13:33:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 198
+[27-Aug-2014 18:00:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 751
+[27-Aug-2014 18:25:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:25:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:25:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:25:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:28:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:34:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:35:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:39:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:39:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:41:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:41:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:41:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:41:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:43:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:44:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 730
+[27-Aug-2014 18:45:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 749
+[27-Aug-2014 18:45:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 749
+[28-Aug-2014 18:10:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:10:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:10:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:10:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:11:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:11:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:11:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:11:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 271
+[28-Aug-2014 18:11:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:11:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:11:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:12:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:12:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:12:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:12:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:13:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:14:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:14:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:14:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:15:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:16:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:16:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 279
+[28-Aug-2014 18:16:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 280
+[28-Aug-2014 18:16:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 280
+[28-Aug-2014 18:16:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 280
+[28-Aug-2014 18:16:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 280
+[28-Aug-2014 18:27:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 249
+[01-Sep-2014 15:33:50 Asia/Calcutta] PHP Warning:  POST Content-Length of 12078202 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Sep-2014 15:35:18 Asia/Calcutta] PHP Warning:  POST Content-Length of 9460511 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Sep-2014 15:57:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 830
+[03-Sep-2014 16:04:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[03-Sep-2014 16:04:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[03-Sep-2014 16:05:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[03-Sep-2014 16:05:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[03-Sep-2014 16:05:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[03-Sep-2014 16:05:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 831
+[04-Sep-2014 11:21:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:21:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:21:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:22:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1687
+[04-Sep-2014 11:38:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result1' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1674
+[04-Sep-2014 11:54:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1690
+[04-Sep-2014 11:54:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1690
+[04-Sep-2014 11:54:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1690
+[04-Sep-2014 11:54:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1690
+[04-Sep-2014 11:54:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1690
+[04-Sep-2014 12:52:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:52:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 12:53:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1677
+[04-Sep-2014 14:11:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1101
+[04-Sep-2014 14:39:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:39:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:40:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:40:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:40:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:40:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:40:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:41:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:42:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:47:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:50:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:51:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 14:52:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1122
+[04-Sep-2014 14:52:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1122
+[04-Sep-2014 15:01:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1126
+[04-Sep-2014 15:01:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1126
+[04-Sep-2014 15:01:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1126
+[04-Sep-2014 15:03:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1126
+[04-Sep-2014 15:03:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1127
+[04-Sep-2014 17:10:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '0' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1258
+[04-Sep-2014 17:13:28 Asia/Calcutta] PHP Warning:  POST Content-Length of 16832967 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2014 17:15:19 Asia/Calcutta] PHP Warning:  POST Content-Length of 9047833 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2014 17:41:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:41:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:41:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:42:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:43:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:43:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:43:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:44:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:45:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:45:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:45:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:45:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:52:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:54:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '[', expecting class (T_CLASS) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1076
+[04-Sep-2014 17:56:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$final' (T_VARIABLE) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1078
+[04-Sep-2014 18:46:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1069
+[04-Sep-2014 18:46:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1069
+[04-Sep-2014 18:46:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '*' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1069
+[04-Sep-2014 20:11:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1599
+[04-Sep-2014 20:13:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1599
+[04-Sep-2014 21:43:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1604
+[05-Sep-2014 10:33:36 Asia/Calcutta] PHP Warning:  POST Content-Length of 11456950 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Sep-2014 17:07:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 791
+[06-Sep-2014 17:08:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '.' in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 1168
+[06-Sep-2014 18:13:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''=>$_FILES['' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/netsetin/public_html/GUN/Pixovent/web_service/signup.php on line 31
+[08-Sep-2014 01:59:48 Asia/Calcutta] PHP Warning:  POST Content-Length of 13382518 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Sep-2014 02:00:53 Asia/Calcutta] PHP Warning:  POST Content-Length of 13382518 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Sep-2014 11:55:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/netsetin/public_html/GUN/Pixovent/web_service/event.php on line 819
+[15-Sep-2014 16:57:30 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 17:33:17 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 18:07:27 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 18:13:15 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 18:23:57 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 18:24:06 Asia/Calcutta] PHP Fatal error:  Cannot redeclare update_event_files() (previously declared in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php:258) in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 318
+[15-Sep-2014 19:38:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'profile_pic' (T_STRING) in /home/netsetin/public_html/GUN/Pixovent/web_service/web_service.php on line 70
+[16-Sep-2014 18:28:30 Asia/Calcutta] PHP Warning:  POST Content-Length of 17764818 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2014 18:30:02 Asia/Calcutta] PHP Warning:  POST Content-Length of 15489751 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2014 18:58:36 Asia/Calcutta] PHP Warning:  POST Content-Length of 13031779 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2014 18:59:22 Asia/Calcutta] PHP Warning:  POST Content-Length of 13031779 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Sep-2014 19:56:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/netsetin/public_html/GUN/Pixovent/web_service/add_item.php on line 119
+[16-Sep-2014 20:26:27 Asia/Calcutta] PHP Warning:  POST Content-Length of 16287995 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Sep-2014 00:01:02 Asia/Calcutta] PHP Warning:  POST Content-Length of 9179797 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Sep-2014 00:03:08 Asia/Calcutta] PHP Warning:  POST Content-Length of 9179797 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
