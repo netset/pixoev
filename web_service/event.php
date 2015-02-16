@@ -1,4 +1,5 @@
 <?php
+echo "dftgdgd";
 	require_once "../class/config.php";
 	require_once "web_functions.php";
         //require_once "apn.php";
