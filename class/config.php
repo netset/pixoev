@@ -19,7 +19,7 @@
         $URL = "http://netset.internetoffice.co.in/GUN/Pixovent";
         //date_default_timezone_set('Europe/London');
 	//date_default_timezone_set('Australia/Adelaide');
-	error_reporting(0);
+	//error_reporting(0);
 ?>
                             
                             
