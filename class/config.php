@@ -2,10 +2,10 @@
 //header('Content-type: text/json');
 	//database access credentials.
 	
-	$host = "localhost";
-	$user = "netsetin_pix";
-        $pass = "Pix@123";
-	$db = "netsetin_pixovent";
+	$host = "pixo.ciox5m125pj3.us-west-2.rds.amazonaws.com";
+	$user = "pixou";
+        $pass = "pixopass";
+	$db = "pixodb";
         //“netsetin_pix” now has privileges on the database “netsetin_pixovent”.
 	//Open connection.
         $con = mysql_connect($host, $user, $pass) or die('fatal'); 
