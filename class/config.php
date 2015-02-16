@@ -16,10 +16,13 @@
 	}
 	//Connect to the database 
 	mysql_select_db($db, $con) or die('error 0xFF');
-        $URL = "http://netset.internetoffice.co.in/GUN/Pixovent";
+        $URL = "http://52.0.15.16/";
         //date_default_timezone_set('Europe/London');
 	//date_default_timezone_set('Australia/Adelaide');
-	//error_reporting(0);
+	error_reporting(1);
+	
+	error_reporting(E_ALL);
+ini_set('display_errors', 1);
 ?>
                             
                             
