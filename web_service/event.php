@@ -1,5 +1,6 @@
 <?php
 echo "dftgdgd";die;
+/*
 	require_once "../class/config.php";
 	require_once "web_functions.php";
         //require_once "apn.php";
@@ -7,7 +8,7 @@ echo "dftgdgd";die;
 	$IMG_URL=$URL."/web_service/images/thumb_";
         // echo $IMG_URL; die;
 	$service_type=$_REQUEST['service_type']; 
-	/*=========================================PIXOVENT======================================================*/
+
 	if(($_REQUEST['service_type']) =='event_invitation')
 	{
 		if(!empty($_REQUEST['host_id']) && !empty($_REQUEST['guest_id']) && !empty($_REQUEST['event_id']))
@@ -16,8 +17,7 @@ echo "dftgdgd";die;
 			{
 				if(check_creator_inv_exist($_REQUEST['host_id'],$_REQUEST['event_id']))
 				{
-				 /*	if($is_creator=creator($_REQUEST['host_id'],$_REQUEST['event_id']))
-					{  */
+				 
 						$data1=array('host_id'=>$_REQUEST['host_id'],
 							'guest_id'=>$_REQUEST['guest_id'],
 							'event_id'=>$_REQUEST['event_id']
@@ -47,11 +47,7 @@ echo "dftgdgd";die;
 							echo json_encode(array('status'=>"false",'message'=>'Already Invited this user for same Event'));
 						}
 					
-			     /*	}
-				  	else
-					{
-						echo json_encode(array('status'=>"false",'message'=>'Only creator of the event can invite guests for it'));
-					} */
+			  
 				} 
 				else
 				{
@@ -328,7 +324,7 @@ echo "dftgdgd";die;
 		}        
 	} 
 	
-	/*=====FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION============*/
+
 	function userProfileDetail($u)
 	{ 
 	    $query=" SELECT uname, profile_pic FROM users WHERE user_id='".$u."' "; //die;
@@ -407,7 +403,7 @@ echo "dftgdgd";die;
 					$final[$i]['date_to']=$row1['date_to'];
 					$final[$i]['event_icon']="$IMG_URL".$row1['event_icon'];
 					
-					/*guest Count*/					
+								
  					if($comingCount=get_CountofComingGuest($row['event_id']))
 					{
                         if($cmngC=mysql_fetch_assoc($comingCount))
@@ -431,9 +427,7 @@ echo "dftgdgd";die;
 						}
 					}
 					
-					/*****************************************************
-					 * total images : default & Extra Images of an Event 
-					 ****************************************************/
+					
 					if($tei1=get_total_EventImage($row['host_id'],$row['event_id']))
 					{ 
 						$px1=mysql_fetch_assoc($tei1);
@@ -460,8 +454,7 @@ echo "dftgdgd";die;
 			return false;
 		}			
 	}
-	    
-    /*=start=====get_Count of coming guest to an event======*/
+	
 	function get_CountofComingGuest($ev_id)
 	{
                 $query = "SELECT Count(guest_id) as guest_count from invitation where accepted=1 AND event_id=$ev_id "; // die;
@@ -476,10 +469,10 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-    /*=end=====get_Count of coming guest to an event=+=====*/ 
+ 
 
 	
-	/*=start=====get_Count_total_EventImage======*/
+
 	function get_total_EventImage($u_id,$ev_id)
 	{ 
    	    $query = "SELECT id, Count(image) as image_count from event_images WHERE user_id=$u_id AND ev_id=$ev_id ";  
@@ -494,7 +487,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*=end=====get_Count_total_EventImage========*/ 
+	
         function get_Event_Image($u_id,$ev_id)
         {
           $query = "SELECT ev_id,count(image) as defaultimage from mange_event WHERE user_id=$u_id AND ev_id=$ev_id And image!=''";  
@@ -585,7 +578,7 @@ echo "dftgdgd";die;
 		}			
 	}
     
-    /*---start---event_imgs---*/
+   
 	function event_imgs($u_id,$ev_id)
 	{
         $query = "SELECT id,image from event_images WHERE ev_id=$ev_id ";   
@@ -598,10 +591,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*---end-----event_imgs---*/
 
-
-	/*---start---event_detail---*/
 	function event_detail($ev_id)
 	{
 	 	$query = "SELECT ev_id as event_id, user_id, event_name, date_from, date_to, locations, event_icon, image from mange_event WHERE ev_id=$ev_id "; 
@@ -615,9 +605,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*---end-----event_detail2---*/
 
-        /*---start---event_detail2- used  in INVITATION_i_RECIEVED--*/
 	function event_detail2($u_id,$ev_id)
 	{
 	 	$query = "SELECT ev_id, user_id, event_name, date_from, date_to, locations, event_icon, description, image from mange_event WHERE user_id=$u_id AND ev_id=$ev_id "; 
@@ -631,7 +619,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*---end-----event_detail---*/
+
 
 	function last_inv_details($id)
 	{
@@ -695,8 +683,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	
-	/*--start--checking wether invitation exist or not--*/
+
 	function check_creator_inv_exist($creator_id,$ev_id)
 	{
 	   //echo $f_id; die;
@@ -711,9 +698,7 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*---end--checking wether invitation exist or not--*/
 	
-	/*--start--alrdy_sent_invitation---*/
     function alrdy_sent_invit($h_id,$g_id,$ev_id)
 	{
 	   //echo $f_id; die;
@@ -728,15 +713,11 @@ echo "dftgdgd";die;
 			return false;
 		}
 	}
-	/*---end----alrdy_sent_invitation---*/
 	
 	
     function comingGuestDetailArray($ev_id,$IMG_URL)
 	{
-	//echo $IMG_URL; die;
-	/****************************************************
-	 * Array: Details Of All friends invited to an Event 
-	 ****************************************************/
+
          $query1="SELECT i.guest_id, u.uname as user_name, u.profile_pic, u.age FROM invitation AS i	RIGHT JOIN users AS u 
                 ON i.guest_id = u.user_id WHERE  i.event_id ='".$ev_id."' ";
 		$r = mysql_query($query1) or mysql_error();
@@ -793,7 +774,6 @@ echo "dftgdgd";die;
 	}
 	
 	
-        /*====-same as coming===-----==*/
         function frndsComng($ev_id,$imgPath,$fc)
 	{
 		    if($fc==1)
@@ -841,6 +821,7 @@ echo "dftgdgd";die;
 
 					}
 	}
+	*/ 
 ?>
 
 
