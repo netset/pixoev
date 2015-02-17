@@ -1,8 +1,9 @@
 <?php
-//header('Content-type: text/json');
-	//database access credentials.
+	error_reporting(1);
 	
-	$host = "pixo.ciox5m125pj3.us-west-2.rds.amazonaws.com";
+	error_reporting(E_ALL);
+ini_set('display_errors', 1);
+    $host = "pixo.ciox5m125pj3.us-west-2.rds.amazonaws.com";
 	$user = "pixou";
         $pass = "pixopass";
 	$db = "pixodb";
@@ -19,10 +20,7 @@
         $URL = "http://52.0.15.16/";
         //date_default_timezone_set('Europe/London');
 	//date_default_timezone_set('Australia/Adelaide');
-	error_reporting(1);
-	
-	error_reporting(E_ALL);
-ini_set('display_errors', 1);
+echo "worked";
 ?>
                             
                             
