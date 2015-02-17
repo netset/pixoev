@@ -4,9 +4,9 @@
 	require_once "../class/config.php";
 	require_once "web_functions.php";
 	
-	echo "dftgdgd";die;
+
 	
-/*
+
         //require_once "apn.php";
         //echo $URL; die;
 	$IMG_URL=$URL."/web_service/images/thumb_";
@@ -825,7 +825,8 @@
 
 					}
 	}
-	*/ 
+	
+	echo "comp";
 ?>
 
 
