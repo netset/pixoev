@@ -1,5 +1,5 @@
 <?php
-echo "dftgdgd";
+echo "dftgdgd";die;
 	require_once "../class/config.php";
 	require_once "web_functions.php";
         //require_once "apn.php";
@@ -841,33 +841,7 @@ echo "dftgdgd";
 
 					}
 	}
-	
-	
-	/*=======FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION==FUNCTION============*/
-	
-	
-	
-	/*======================================PIXOVENT======================================================*/
-
-
-
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-
-                            
-                            
-                            
-                            
-                            
-                            
+?>
 
 
                             
