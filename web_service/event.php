@@ -12,7 +12,7 @@
 	$IMG_URL=$URL."/web_service/images/thumb_";
         // echo $IMG_URL; die;
 	$service_type=$_REQUEST['service_type']; 
-
+/*
 	if(($_REQUEST['service_type']) =='event_invitation')
 	{
 		if(!empty($_REQUEST['host_id']) && !empty($_REQUEST['guest_id']) && !empty($_REQUEST['event_id']))
@@ -304,14 +304,14 @@
 		       }                   
 		}        
 	}  
-        
+      */  
         if($service_type == 'fReqIRecvd')
 	{
 		if(!empty($_REQUEST['user_id']))
 		{
 			//echo "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"; die;
-			$uid=$_REQUEST['user_id'];                    
-			$invitations=fReqIRecvd($uid,$IMG_URL);  
+			echo $uid=$_REQUEST['user_id'];                    
+			//$invitations=fReqIRecvd($uid,$IMG_URL);  
 		    //echo "<pre>"; print_r($invitations) ; //die;                
 			foreach($invitations as $inv)
 			{
@@ -325,10 +325,13 @@
 			{
 				echo json_encode(array('Status'=>"false",'requests'=>[]));    
 			}                   
-		}        
+		} else
+			{
+				echo json_encode(array('Status'=>"false",'requests'=>[]));    
+			}        
 	} 
 	
-
+/*
 	function userProfileDetail($u)
 	{ 
 	    $query=" SELECT uname, profile_pic FROM users WHERE user_id='".$u."' "; //die;
@@ -825,7 +828,7 @@
 
 					}
 	}
-	
+	*/
 	echo "comp";
 ?>
 
