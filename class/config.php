@@ -1,8 +1,8 @@
 <?php
-	error_reporting(1);
+	//error_reporting(1);
 	
-	error_reporting(E_ALL);
-ini_set('display_errors', 1);
+	error_reporting(0);
+//ini_set('display_errors', 1);
     $host = "pixo.ciox5m125pj3.us-west-2.rds.amazonaws.com";
 	$user = "pixou";
         $pass = "pixopass";
