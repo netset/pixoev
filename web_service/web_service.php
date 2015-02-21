@@ -491,7 +491,7 @@ else{
               {
                 echo json_encode(array(
                     'Status' => "false",
-                    'pixos' => []
+                    'pixos' => array()
                 ));
               }
             //  echo "<pre>";print_r($row);die;
@@ -649,11 +649,11 @@ if ($service_type == 'f_list')
  
             if (@$best_friend == 'null' || @$best_friend == '')
               {
-                $best_friend = [];
+                $best_friend = array();
               }
             if (@$friend == 'null' || $friend == '')
               {
-                $friend = [];
+                $friend = array();
               }
             echo json_encode(array(
                 'Status' => "true",
@@ -1039,7 +1039,7 @@ if ($service_type == 'user_profile')
                   }
                 else
                   {
-                    $final[$i]['events_in_common'] = [];
+                    $final[$i]['events_in_common'] = array();
                   }
                 $i++;
               }
