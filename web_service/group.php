@@ -1,4 +1,4 @@
-                                                                                                                                <?php
+<?php
         error_reporting(E_ALL);
         ini_set("display_errors", 1);    
 	require_once "../class/config.php";
@@ -76,12 +76,12 @@ $result=mysql_query($query) or mysql_error();
                                     $final['friends']=$z1;
                                     if($final['friends']=='')
                                     {
-			                    $final['friends']=[];
+			                    $final['friends']=array();
 			                   //echo "<pre>"; print_r($final); die;
 		                    } elseif($final['friends']=='null')
                                     {
 			                // echo "<pre>"; echo "koko"; die;
-			                   $final=[];
+			                   $final=array();
 
 		                    }                     	
                                 $e++;
@@ -94,7 +94,7 @@ $result=mysql_query($query) or mysql_error();
 		}
 	   $errors = array_filter($final);
 if(empty($errors)){
-$ret=[];
+$ret=array();
      return $ret;
 }else{
    return $errors;

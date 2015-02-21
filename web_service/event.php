@@ -142,7 +142,7 @@
 					}
 					else
 					{
-						$guest[$i]['guest_invited']=[];
+						$guest[$i]['guest_invited']=array();
 					}
 					if($tei1=get_total_EventImage($row['user_id'],$row['event_id']))
 					{ 
@@ -299,7 +299,7 @@
                        }
                        else
 		       {
-			 echo json_encode(array('Status'=>"false",'requests'=>[]));    
+			 echo json_encode(array('Status'=>"false",'requests'=>array()));    
 		       }                   
 		}        
 	}  
