@@ -20,7 +20,7 @@ ini_set('display_errors', 1);
         $URL = "http://52.0.15.16/";
         //date_default_timezone_set('Europe/London');
 	//date_default_timezone_set('Australia/Adelaide');
-echo "worked";
+
 ?>
                             
                             
