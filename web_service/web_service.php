@@ -290,7 +290,7 @@ if ($service_type == 'list_of_events')
               }
             if (empty($events_upcomng_ongng2day))
               {
-                $events_upcomng_ongng2day = [];
+                $events_upcomng_ongng2day = array();
               }
             else
               {
